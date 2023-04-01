@@ -1,0 +1,54 @@
+Plantilla: "online-cv"
+Piel: "morado"
+
+basic_info:
+
+
+    first_name: Kaka
+    last_name: Mandela
+
+
+    lema: Dedicación, aprendizaje, cuidado, ayuda, activo
+
+
+    enfoque: Aprender todo lo que pueda sobre desarrollo web. 
+
+
+    Resumen: |
+      Soy una persona activa, con actividad física y ahora mental.
+    
+   
+    Avatar: https://media-exp1.licdn.com/dms/image/C4D03AQFWMVa6qahy5Q/profile-displayphoto-shrink_800_800/0/1596661064076?e=1617840000&v=beta&t=QGteJrxLl5jsPF79co8hcdmaHF24LK0Bl-O7cRRhY7g
+
+
+    Correo electrónico: kakamandela@gmail.com
+    Teléfono: 0000000000 
+
+
+
+    GitHub: dudubalack
+
+
+    Idiomas:
+      - modismo: spañol
+        nivel: Nativo
+
+
+    Intereses:
+      - artículo: desport
+
+      - artículo: Salud y bienestar
+
+
+
+Educación:
+titulación: xxxxxx 
+universidad: Universidad 
+tiempo: 2011 - 2015
+detalles: xxxxxx
+
+
+Experiencias:
+    - rol: deportista 
+      tiempo: xxxxx
+      empresa: xxxxxx
